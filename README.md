@@ -36,7 +36,7 @@ We also welcome researchers who took an untraditional career path.<span id="incl
 For more university-level resources, see [here](https://people.utoronto.ca/inclusion/).
 
 <div class="logos" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UofT_logo.svg/1920px-UofT_logo.svg.png" alt="University of Toronto" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Temerty_Medicine_wordmark_alt.svg/1920px-Temerty_Medicine_wordmark_alt.svg.png" alt="Temerty Faculty of Medicine" height="50">
-<img src="https://isi.utoronto.ca/wp-content/uploads/2022/07/AC-16-9-logo.png" alt="Acceleration Consortium" height="100">
+<a href="https://www.utoronto.ca"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/UofT_logo.svg/1920px-UofT_logo.svg.png" alt="University of Toronto" height="50"></a>
+<a href="https://temertymedicine.utoronto.ca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Temerty_Medicine_wordmark_alt.svg/1920px-Temerty_Medicine_wordmark_alt.svg.png" alt="Temerty Faculty of Medicine" height="50"></a>
+<a href="https://acceleration.utoronto.ca"><img src="https://isi.utoronto.ca/wp-content/uploads/2022/07/AC-16-9-logo.png" alt="Acceleration Consortium" height="100"></a>
 </div>

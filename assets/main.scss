@@ -18,6 +18,14 @@ $base-font-size: 20px;
   gap: $spacing-unit * 0.5 $spacing-unit;
   margin-top: $spacing-unit;
 
+  // Each logo links to its institution. Making the anchor a flex box
+  // drops the inline baseline gap under the image, which would
+  // otherwise offset the logos from the shared centerline.
+  a {
+    display: flex;
+    border-bottom: none;
+  }
+
   img {
     max-width: 100%;
   }
