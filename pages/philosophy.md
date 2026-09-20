@@ -8,9 +8,7 @@ To fulfill our [mission](../index.md) to fully automate drug discovery, we build
 **🍷 Taste over (excessive) hard work.** 
 In this era, we believe that picking the right tree is far more impactful than barking hard.
 If you find yourself stressfully working long hours, you are probably not using the right tool or tackling the problem from the right angle.
-Even back in the time when I did my training (without AI agents), I found myself most productive when contemplating a problem while running, working out, walking my dog, or simply enjoying nature, and then I go back to my desk or computer just to put down what I had just thought about.
 Although we welcome researchers at all life stages to join us, statistically, most entered academia during what can be colloquially described as _the best years of one's life_, which should not be wasted solely on work.
-Barring regulations from higher-above, we do not have a set expectation for working hours.
 We also do not believe in full-time in-person work---use our office for meetings, socializing, and impromptu discussions, but do not feel obligated to stay in when you need focus time. 
 In sum, we are progress-driven---as long as you are making expected progress, we do not care about where or when you did the amazing work to make it happen.
 Finally, your wellbeing is the single most important thing within the lab;
