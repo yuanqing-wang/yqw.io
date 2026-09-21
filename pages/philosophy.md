@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 💡 philosophy
+permalink: /philosophy/
+redirect_from:
+  - /pages/philosophy.html
 ---
 
 To fulfill our [mission](../index.md) to fully automate drug discovery, we build our research program around a set of principles we value, which, over time, for better or for worse, are going to shape who we are in academia.

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 👩‍💻 careers
+permalink: /careers/
+redirect_from:
+  - /pages/careers.html
 ---
 
 
