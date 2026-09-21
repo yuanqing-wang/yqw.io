@@ -9,6 +9,20 @@ email: wangyq@wangyq.net
 plugins:
   - jekyll-redirect-from
 
+# Social preview card (LinkedIn, Slack, X, iMessage). Without an
+# explicit og:image, scrapers pick the first large image on the page,
+# which is the headshot. Cropped to LinkedIn's 1.91:1 and flattened
+# onto white, since transparency renders as black in most previews.
+twitter:
+  username: YuanqingWang
+  card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-card.jpg
+
 header_pages:
   - pages/philosophy.md
   - pages/careers.md
