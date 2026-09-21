@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 💡 philosophy
-permalink: /philosophy/
 redirect_from:
   - /pages/philosophy.html
 ---

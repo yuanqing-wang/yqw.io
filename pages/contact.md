@@ -1,7 +1,5 @@
 ---
-layout: post
 title: ✉️ contact
-permalink: /contact/
 redirect_from:
   - /pages/contact.html
 ---

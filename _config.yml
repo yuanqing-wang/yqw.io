@@ -23,6 +23,16 @@ defaults:
     values:
       image: /assets/images/og-card.jpg
 
+  # Anything dropped into pages/ becomes a top-level page served at
+  # /<filename>/. Adding pages/foo.md is enough -- it needs only a
+  # title, and it picks up the layout and the short URL from here.
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: post
+      permalink: /:basename/
+
 header_pages:
   - pages/philosophy.md
   - pages/careers.md
